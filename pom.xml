@@ -12,7 +12,7 @@
     <artifactId>recipe-springframework</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>recipe-springframework</name>
-    <description>Simpel recipe project</description>
+    <description>Simple recipe project</description>
 
     <properties>
         <java.version>11</java.version>
